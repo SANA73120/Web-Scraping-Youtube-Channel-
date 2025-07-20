@@ -29,8 +29,6 @@ Since Yujin-kun is a gaming YouTuber, this project focuses on identifying the mo
 ### 🪜 Steps Followed
 - Step 1: Obtained a YouTube API key from the Google Cloud Console with access to YouTube Data API v3.
 
-        API: AIzaSyDgutudUM6pfgFZom5ozNuFibrVnyfdB7E
-
 - Step 2: Identified the channel ID of Yujin-kun’s YouTube channel.
 
         Channel ID: UCzrV-4wRCiaVZKRO0YM2AcA
